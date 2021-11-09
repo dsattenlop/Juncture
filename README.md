@@ -36,7 +36,7 @@ Bessie Smith (April 15, 1894 – September 26, 1937) was an American blues singe
 ## Map for Bessie Smith
 
 This Map is of her birthplace: Chattanooga, Tennessee 
-<param ve-image manifest="https://ibb.co/LRC8d28">
+<param ve-image manifest="https://i.ibb.co/xLMDqRD/Screen-Shot-2021-11-09-at-11-31-00-AM.png">
 <param ve-entity eid="Q186702">
 <param ve-map center="Q186702" zoom="11" prefer-geojson>
 
@@ -45,7 +45,7 @@ This Map is of her birthplace: Chattanooga, Tennessee
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/WTP_A16_youcanlookitup_2.jp/440px-WTP_A16_youcanlookitup_2.jpg">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/1920px-ColtraneH.jpg">
 <param ve-map center="Q6226777" zoom="11">
 
 # References
