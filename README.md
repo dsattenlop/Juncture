@@ -34,7 +34,7 @@ Bessie Smith (April 15, 1894 – September 26, 1937) was an American blues singe
 ## Map
 
 This map of Philadelphia 
-<param ve-map zoom="2">
+<param ve-map zoom="6">
 <param ve-map-layer geojson title="Worlds most populated cities" url="cities.json">
 
 ## Multiple viewers
