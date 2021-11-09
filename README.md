@@ -47,6 +47,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/1920px-ColtraneH.jpg">
+<param ve-entity eid="Q6226777">
 <param ve-map center="Q6226777" zoom="16">
 
 # References
