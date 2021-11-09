@@ -39,6 +39,7 @@ Bessie Smith (April 15, 1894 – September 26, 1937) was an American blues singe
 
 ## Map of Important Philadelphia Jazz Spots
 
+This is the some important places in Philadelphia Jazz History
 <param ve-image
         url="https://i.ibb.co/xLMDqRD/Screen-Shot-2021-11-09-at-11-31-00-AM.png">
 
