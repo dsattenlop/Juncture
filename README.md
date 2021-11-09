@@ -21,34 +21,26 @@
 
 This is a sample visual essay demonstrating a few key features of a Juncture. 
 
+## John Coltrane
 
-# Basic usage
+The John Coltrane House is a historic house at 1511 North 33rd Street in Philadelphia, Pennsylvania, USA. A National Historic Landmark, it was the home of American saxophonist and jazz pioneer John Coltrane from 1952 until 1958.
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/1920px-ColtraneH.jpg">
+<param ve-entity eid="Q6226777">
+<param ve-map center="Q6226777" zoom="16">
 
 ## Bessie Smith
 
 Bessie Smith (April 15, 1894 – September 26, 1937) was an American blues singer widely renowned during the Jazz Age. Nicknamed the "Empress of the Blues", she was the most popular female blues singer of the 1920s and 1930s. The photo to the right is of her funeral in South Philadelphia, casket was taken on a slow tour, stopping at the Standard Theater on 11th and South.
 <param ve-image 
-       label="Bessie Smith" 
-       description="Photo" 
-       license="public domain" 
        url="https://phillyjazzblog.files.wordpress.com/2015/03/bessie-smith-funeral-procession-e14261306305761.jpg">
+       <param ve-entity eid="Q186702">
+       <param ve-map center="Q186702" zoom="11">
 
-## Map for Bessie Smith
+## Map of Important Philadelphia Jazz Spots
 
-This Map is of her birthplace: Chattanooga, Tennessee 
 <param ve-image
         url="https://i.ibb.co/xLMDqRD/Screen-Shot-2021-11-09-at-11-31-00-AM.png">
-<param ve-entity eid="Q186702">
-<param ve-map center="Q186702" zoom="11">
-
-## John Coltrane
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/1920px-ColtraneH.jpg">
-<param ve-entity eid="Q6226777">
-<param ve-map center="Q6226777" zoom="16">
 
 # References
 
