@@ -39,7 +39,7 @@ This Map is of her birthplace: Chattanooga, Tennessee
 <param ve-image
         url="https://i.ibb.co/xLMDqRD/Screen-Shot-2021-11-09-at-11-31-00-AM.png">
 <param ve-entity eid="Q186702">
-<param ve-map center="Q186702" zoom="11" prefer-geojson>
+<param ve-map center="Q186702" zoom="11">
 
 ## John Coltrane
 
@@ -47,7 +47,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/1920px-ColtraneH.jpg">
-<param ve-map center="Q6226777" zoom="15">
+<param ve-map center="Q6226777" zoom="16">
 
 # References
 
