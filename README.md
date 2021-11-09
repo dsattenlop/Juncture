@@ -14,6 +14,8 @@
 <param ve-entity eid="Q6226777"> <!-- John Coltrane House -->
 <param ve-entity eid="Q354508"> <!-- Sun Ra -->
 <param ve-entity eid="Q43385735"> <!-- Earle Theatre -->
+<param ve-entity eid="Q186702"> <!-- Chattanooga -->
+
 
 # Sample visual essay
 
@@ -31,13 +33,23 @@ Bessie Smith (April 15, 1894 – September 26, 1937) was an American blues singe
        license="public domain" 
        url="https://phillyjazzblog.files.wordpress.com/2015/03/bessie-smith-funeral-procession-e14261306305761.jpg">
 
-## Map
+## Map for Bessie Smith
 
-This Map of Regarding Bessie Smith's Life 
+This Map is of her birthplace: Chattanooga, Tennessee 
 <param ve-entity eid="Q186702">
 <param ve-map center="Q186702" zoom="11" prefer-geojson>
 
+## John Coltrane
+
+Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
+Others are selectable using icons displayed in the top right margin of the paragraph.
+<param ve-image 
+       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/WTP_A16_youcanlookitup_2.jpg/440px-WTP_A16_youcanlookitup_2.jpg">
+<param ve-map center="Q6226777" zoom="11">
+
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Bessie Smith](https://en.wikipedia.org/wiki/Bessie_Smith)
+
+[^2]: [Wikipedia: John Coltrane](https://en.wikipedia.org/wiki/John_Coltrane)
 
