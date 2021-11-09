@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin=""
+    />
+  </head>
+  <body>
+    <div
+      id="map"
+      style="height: 600px; margin-top: 50px"
+    ></div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin=""
+    ></script>
+    <script>
+      var map = L.map("map").setView([39.9526168558863, -75.19364867654205], 11);
+
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      }).addTo(map);
+
+     L.marker([39.980491344037176, -75.18872107361543])
+        .addTo(map)
+        .bindPopup(`John Coltrane House`, {closeOnClick: false, autoClose: false})
+        .openPopup();
+    
+      L.marker([39.9526168558863, -75.19364867654205])
+        .addTo(map)
+        .bindPopup(`Van Pelt! - Where I want to work`, {closeOnClick: false, autoClose: false})
+        .openPopup();
+
+     L.marker([39.967363589852305, -75.15327662718425])
+        .addTo(map)
+        .bindPopup(`The Parrish Cafe`, {closeOnClick: false, autoClose: false})
+        .openPopup();   
+
+    L.marker([40.03926008998573, -75.16915654481616])
+        .addTo(map)
+        .bindPopup(`Sun Ra Arkestra House`, {closeOnClick: false, autoClose: false})
+        .openPopup();  
+
+    L.marker([40.00796480710839, -75.15672803499177])
+        .addTo(map)
+        .bindPopup(`Tioga Theater`, {closeOnClick: false, autoClose: false})
+        .openPopup();  
+
+    L.marker([39.90268070714664, -75.25882598212701])
+        .addTo(map)
+        .bindPopup(`Bessie Smith's Grave`, {closeOnClick: false, autoClose: false})
+        .openPopup();  
+    </script>
+  </body>
+</html>
