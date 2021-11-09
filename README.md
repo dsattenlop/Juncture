@@ -34,6 +34,7 @@ Bessie Smith (April 15, 1894 – September 26, 1937) was an American blues singe
 ## Map
 
 This Map of Regarding Bessie Smith's Life 
+<param ve-entity eid="Q186702">
 <param ve-map center="Q186702" zoom="11" prefer-geojson>
 
 # References
